@@ -6,7 +6,7 @@
 
 # Introduction
 
-The movie recommandation website is a flask app created using Python, HTML, CSS and JavaScript. The app recommends movies to the user based on the users selection. The app is also hosted on heroku.
+The movie recommandation website is a flask app created using Python, CSS and JavaScript. The app recommends movies to the user based on the users selection. The app is also hosted on heroku.
 The app has the following endpoints.
 
 - GET /actors and /movies
