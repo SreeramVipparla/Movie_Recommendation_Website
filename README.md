@@ -2,7 +2,7 @@
 
 # Overview
 
-<img src="https://user-images.githubusercontent.com/86887626/144291368-50b79671-27c8-404f-b018-61a3d9190a26.jpg" width="900" height="250">
+<img src="https://user-images.githubusercontent.com/86887626/144294235-74c94b42-ecea-4991-8093-d2205f83d18d.jpg" width="1000" height="300">
 
 # Introduction
 
